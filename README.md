@@ -1,8 +1,8 @@
 ITE110 Tutorial Repository
 This repository was created for the ITE110 Git and GitHub tutorial.
 
-Student
-Mariah Pitt - USI: 1038328
+Collaborator
+Shameca Watts
 
 Purpose
 Learn Git
